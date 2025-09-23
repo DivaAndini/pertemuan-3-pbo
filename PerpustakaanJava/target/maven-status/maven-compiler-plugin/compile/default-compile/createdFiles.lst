@@ -1,0 +1,6 @@
+models\Mahasiswa.class
+main\PerpustakaanJava.class
+models\Skripsi.class
+models\Majalah.class
+models\ItemPerpustakaan.class
+models\Buku.class
